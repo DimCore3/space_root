@@ -59,6 +59,14 @@ const FillCards = () => {
             description: "React.JS + React-Router + TypeScript + SCSS + HTML/CSS/JS + FSD",
             gitLink: 'https://github.com/DimCore3/getwash'
         },
+        {
+            name: "GPT voicechat telegram bot",
+            link: "https://github.com/DimCore3/gpt_voicechat_bot",
+            img: "gpt.jpg",
+            alt: "Image GPT voicechat telegram bot",
+            description: "NodeJS + Telegram-bot-api + GPT-3 + Docker",
+            gitLink: 'https://github.com/DimCore3/gpt_voicechat_bot'
+        },
     ];
 
     return (
