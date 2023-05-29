@@ -67,6 +67,14 @@ const FillCards = () => {
             description: "NodeJS + Telegram-bot-api + GPT-3 + Docker",
             gitLink: 'https://github.com/DimCore3/gpt_voicechat_bot'
         },
+        {
+            name: "WhatsApp (Green API)",
+            link: "https://dimcore.ru/",
+            img: "whatsapp.jpg",
+            alt: "Whatsapp application on Green API",
+            description: "React + React-Route + TypeScript + SCSS + HTML/CSS/JS+ FSD",
+            gitLink: 'https://github.com/DimCore3/WhatsApp_Green_API'
+        },
     ];
 
     return (
