@@ -75,6 +75,14 @@ const FillCards = () => {
             description: "React + React-Route + TypeScript + SCSS + HTML/CSS/JS+ FSD",
             gitLink: 'https://github.com/DimCore3/WhatsApp_Green_API'
         },
+        {
+            name: "TCS",
+            link: "tcs",
+            img: "tcs.jpg",
+            alt: "tcs",
+            description: "React.JS + TypeScript + SCSS + HTML/CSS/JS + FSD + Drag & Drop",
+            gitLink: 'https://github.com/DimCore3/tcs'
+        },
     ];
 
     return (
