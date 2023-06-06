@@ -86,7 +86,7 @@ const FillCards = () => {
     ];
 
     return (
-        <Cards data={contentArray} />
+        <Cards data={contentArray.reverse()} />
     );
 }
 
