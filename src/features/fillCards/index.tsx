@@ -16,7 +16,7 @@ const FillCards = () => {
             link: "alef",
             img: "alef.jpg",
             alt: "Image Alef example",
-            description: "Vue3 + TypeScript + SCSS + HTML/CSS/JS",
+            description: "Vue3 + TypeScript + SCSS + HTML/CSS/JS + Cross-browser compatibility",
             gitLink: 'https://github.com/DimCore3/alf-dev-test'
         },
         {
@@ -44,19 +44,11 @@ const FillCards = () => {
             gitLink: 'https://github.com/DimCore3/RLT-inventory'
         },
         {
-            name: "Service-transaction",
-            link: "service-transaction",
-            img: "ServiceTransaction.jpg",
-            alt: "Image Service-transaction",
-            description: "Angular + TypeScript + SCSS + HTML/CSS/JS",
-            gitLink: 'https://github.com/DimCore3/transaction-service-Angular'
-        },
-        {
             name: "GetWash",
             link: "https://dimcore.online/",
             img: "getWash.jpg",
             alt: "Image GetWash",
-            description: "React.JS + React-Router + TypeScript + SCSS + HTML/CSS/JS + FSD",
+            description: "React.JS + React-Router + TypeScript + SCSS + HTML/CSS/JS + FSD + Cross-browser compatibility",
             gitLink: 'https://github.com/DimCore3/getwash'
         },
         {
@@ -80,7 +72,7 @@ const FillCards = () => {
             link: "tcs",
             img: "tcs.jpg",
             alt: "tcs",
-            description: "React.JS + TypeScript + SCSS + HTML/CSS/JS + FSD + Drag & Drop",
+            description: "React.JS + TypeScript + SCSS + HTML/CSS/JS + FSD + Drag & Drop + Cross-browser compatibility",
             gitLink: 'https://github.com/DimCore3/tcs'
         },
     ];
