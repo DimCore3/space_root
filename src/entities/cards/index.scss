@@ -27,7 +27,7 @@
             opacity: 0.8;
             p {
                 font-size: 12px;
-                width: 90%;
+                width: 200px;
             }
             a {
                 h3 {
@@ -55,7 +55,9 @@
         transition: width 0.5s, height 0.5s;
         opacity: 1;
         background-color: rgba($color: #fff, $alpha: 1);
+
         p {
+            width: 200px;
             transition: font-size 0.4s;
             height: fit-content;
         }
